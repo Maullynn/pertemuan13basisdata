@@ -114,10 +114,6 @@ Untuk menggunakan basis data ini, Anda dapat mengikuti langkah-langkah berikut:
 
     Pastikan tabel-tabel dan data telah ditambahkan dengan benar ke dalam basis data Anda.
 
-## Kontribusi
-
-Kami menerima kontribusi dari siapa pun yang ingin berpartisipasi. Untuk memulai, silakan fork repositori ini, buat branch baru, dan buat pull request dengan perubahan yang ingin Anda tambahkan.
-
 ## Lisensi
 
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
